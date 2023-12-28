@@ -1,0 +1,16 @@
+@media (min-width:786px) {
+  .news-input {
+    width: 50%;
+  }
+
+
+
+}
+
+@media (min-width:500px) {
+  .up-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+}
